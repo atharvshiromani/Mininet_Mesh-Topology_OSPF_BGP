@@ -73,9 +73,9 @@ title"Throughput" with linespoint
 "new_filename_udp.txt" title "Jitter UDP" with linespoint
 
 ## Built With
-Oracle Virtual Box(v6.0,22) - Virtualization Software 
-Mininet - Network Simulator 
-Ubuntu(v20.04.1) - Operating System
+- Oracle Virtual Box(v6.0,22) - Virtualization Software 
+- Mininet - Network Simulator 
+- Ubuntu(v20.04.1) - Operating System
 
 ## Author
 Vriddhi Pai

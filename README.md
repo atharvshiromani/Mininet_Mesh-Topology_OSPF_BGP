@@ -3,7 +3,7 @@ A network emulator like Mininet allows one to simulate customized networks
 in terms of a myriad of topologies in common knowledge as well as leaves room 
 for flexible extension and experimentation. Its support for OpenFlow further
 allows custom routing and extend combinations of such implementations for critical
-network analysis. This project implements custom Mesh Topology in Mininet and records, visualizes and contrasts the critical differences in its performances when tested in conjunction with two well-known routing protocols: Border Gateway Protocol (BGP) and Open Shortest Path First Protocol (OSPF Protocol). We quantified our results in terms of 2 performance metrics: throughput and jitter. 
+network analysis. This project implements custom Mesh Topology in Mininet and records, visualizes and contrasts the critical differences in its performances when tested in conjunction with two well-known routing protocols: Border Gateway Protocol (BGP) and Open Shortest Path First Protocol (OSPF Protocol). I quantified our results in terms of 2 performance metrics: throughput and jitter. 
 
 ## Prerequisites
 - Knowledge of Mininet
